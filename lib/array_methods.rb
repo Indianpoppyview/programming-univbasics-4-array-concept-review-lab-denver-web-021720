@@ -12,8 +12,9 @@ array.length.times do |count|
   max = array[count]
   end
 end
-max
-end 
+
+
+
 
 def find_min_value(array)
 min = 0 
