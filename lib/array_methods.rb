@@ -22,5 +22,4 @@ array.length.times do |count|
     min = array[count]
   end 
 end
-min
-end 
+
